@@ -4,7 +4,7 @@ function calcularTotal(precio, cantidad) {
         return "Error: valores negativos";
     }
 
-    let total = precio * cantidad;
+    let total = precio + cantidad;
     return total;
 }
 
