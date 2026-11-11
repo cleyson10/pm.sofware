@@ -10,4 +10,4 @@ function calcularTotal(precio, cantidad) {
 
 console.log(calcularTotal(100, 3));
 console.log(calcularTotal(50, 2));
-console.log(calcularTotal(-10, 3));
+console.log(calcularTotal(-100, 3));
